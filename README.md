@@ -1,5 +1,5 @@
 
-<h1 align="center"> 👋 Hi there</h1>
+<h1 align="center"> 👋 Hi there , I am Sam</h1>
 <p align="center"> I am Front-end enthusiast and coder. Motivated to deliver smooth and modern web designs.</p><br><br>
 
 ### 👨‍💻 Me, in a Few Lines ..
@@ -48,8 +48,9 @@
 
 </div>
 
-
-
+## 🔢 Language Breakdown
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sam8284&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br><br>
 
 ### 📫 Connect With Me
 
